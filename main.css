@@ -4,3 +4,11 @@ img{
     float: left;
     margin-right: 10px;
 }
+
+p{
+    font-weight: bold;
+}
+
+p.lorem{
+    font-style: italic;
+}
