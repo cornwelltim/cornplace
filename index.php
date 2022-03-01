@@ -12,7 +12,7 @@
 
 	<body>
 
-		<h1>Tim Cornwell</h1>
+		<h1>Anarkulov Timur</h1>
 		<h2>CG Generalist</h2>
 
 		<h3>My main skills are:</h3>
@@ -33,6 +33,7 @@
 
 		<h3>Also interested in:</h3>
 		<ul>
+			<li>Unity</li>
 			<li>Maya scripting</li>
 			<li>Houdini simulations</li>
 			<li>Unreal Engine</li>
@@ -42,6 +43,8 @@
 
 		<h3>Contact me:</h3>
 		<p class="lorem">tim@cornplace.com</p>
+		
+		<?php include('featured.php'); ?>
 
 	</body>
 </html>
