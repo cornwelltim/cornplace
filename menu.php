@@ -25,7 +25,7 @@
     </script>
 
 
-    <h1>Anarkulov Timur</h1>
+    <h1>Tim Conrwell</h1>
     <h2>CG Generalist</h2>
 
     <table>
