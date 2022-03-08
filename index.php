@@ -7,7 +7,7 @@
 	<body>
         <div class="container">
 
-            <h1 id="contactme">Tim Conrwell</h1>
+            <h1 id="contactme">Timur Anarkulov</h1>
             <h2 id="fadetext">CG Generalist</h2>
 
             <?php include('menu.php'); ?>
