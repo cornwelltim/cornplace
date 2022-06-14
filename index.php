@@ -11,6 +11,7 @@
             <h2 id="fadetext">CG Generalist</h2>
 
             <?php include('menu.php'); ?>
+            <?php include('info.php'); ?>
 
             <h3 id="contactme">Contact me:</h3>
             <a href="mailto:tim@cornplace.com" id="myemail">tim@cornplace.com</a>
